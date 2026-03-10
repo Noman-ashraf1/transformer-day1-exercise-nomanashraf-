@@ -1,0 +1,3 @@
+1. Transformers use self-attention mechanisms for sequence modeling in NLP. (0.75)
+2. Embeddings convert text into dense vectors that represent semantic meaning. (0.33)
+3. Python is a high-level language known for its readable and concise syntax. (0.19)

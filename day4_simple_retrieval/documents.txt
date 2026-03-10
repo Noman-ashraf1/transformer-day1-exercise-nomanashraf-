@@ -1,0 +1,11 @@
+Transformers use self-attention mechanisms for sequence modeling in NLP.
+Diffusion models generate images by gradually removing noise from random data.
+Embeddings convert text into dense vectors that represent semantic meaning.
+Pasta carbonara is made with eggs, cheese, pancetta, and black pepper.
+Sourdough bread requires a live starter culture for fermentation.
+The James Webb Space Telescope captures infrared images of distant galaxies.
+Mars has the largest volcano in the solar system, Olympus Mons.
+Python is a high-level language known for its readable and concise syntax.
+Git is a distributed version control system for tracking code changes.
+The FIFA World Cup is held every four years and is the largest football tournament.
+Michael Jordan won six NBA championships with the Chicago Bulls.
