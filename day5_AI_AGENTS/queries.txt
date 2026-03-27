@@ -1,0 +1,3 @@
+What is 25 * 8?
+What is the weather in Lahore,Pk?
+Explain what embeddings are.
